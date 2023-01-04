@@ -1,0 +1,1 @@
+export const BackendService = "http://localhost/b-instagram"
